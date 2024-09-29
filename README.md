@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ebosterix&label=Profile%20views&color=0e75b6&style=flat" alt="ebosterix" /> </p>
 
-- 🌱 I’m currently learning **Full-stack(MERN) Web-Development**
+- 🌱 I’m currently learning  **Full-stackWeb-Development - (MERN) **
 
 - 👯 I’m looking to collaborate on **several projects now and in the future**
 
-- 💬 Ask me about **Linux Terminal, Git, Github ---**
+- 💬 Ask me about **Linux Terminal, Git, Github, Html, CSS ---**
 
 - 📫 How to reach me **okile.webdev@gmail.com**
 
-- ⚡ Fun fact **I think I am curious about a lot of things I am yet to find out ):**
+- ⚡ Fun fact **I think I am curious about a lot of things I am yet to find out ---ah ):**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
